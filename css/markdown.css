@@ -102,12 +102,12 @@
     margin: 24px 0;
 }
 
-.post-md p,
-.post-md blockquote
+.post-md p
 {
     text-align: justify;
-    text-indent: 2em;
+    text-indent: 4em;
 }
+
 .post-md blockquote
 {
     border-left: 2px solid var(--line-2);
