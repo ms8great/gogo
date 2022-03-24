@@ -4,7 +4,7 @@
 {
     width: 100%;
     font-size: 16px;
-    letter-spacing: 0;
+    letter-spacing: 0.05em;
 }
 
 .post-md h1,
@@ -105,7 +105,7 @@
 .post-md p
 {
     text-align: justify;
-    text-indent: 4em;
+    text-indent: 2em;
 }
 
 .post-md blockquote

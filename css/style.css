@@ -10,10 +10,12 @@
     --line-1: #ccc;
     --line-2: #ddd;
 }
+
 p
 {
     word-wrap: break-word;
     white-space: pre-wrap;
+    text-indent: 2em;
 }
 
 body
