@@ -78,7 +78,7 @@ body {
 p {
     margin:0 0 20px;
     text-align: justify;
-    
+    text-indent: 2em;
 }
 
 h1,
@@ -510,12 +510,14 @@ a:focus {
     color: #555;
     font-weight: 400;
 }
+
 .post-preview .post-meta {
     color: #808080;
     font-size: 12px;
     margin:0;
     padding-left: 2px;
     margin-bottom: 15px;
+    text-indent: 0.1em;
 }
 
 .post-preview > .post-meta > a {
